@@ -2,6 +2,8 @@
 import sys 
 
 # this will print asterisks 
+# added from local repository 11/7/19
+
 def print_triangle (n):
 	for i in range (n):
 		print "*",
@@ -12,6 +14,7 @@ def print_triangle (n):
 yes_reply ="y"
 no_reply = "n"
 answer=" "
+test = "this is test string for git"
 
 # function prints prompt message
 
